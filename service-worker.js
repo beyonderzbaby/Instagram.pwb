@@ -1,5 +1,13 @@
 const CACHE_NAME = "instagram-pwa-v1";
 const APP_SHELL = [
+  "/Instagram.pwb/",
+  "/Instagram.pwb/index.html",
+  "/Instagram.pwb/manifest.webmanifest",
+  "/Instagram.pwb/style.css",
+  "/Instagram.pwb/app.js",
+  "/Instagram.pwb/icons/icon-192.png",
+  "/Instagram.pwb/icons/icon-512.png"
+];
   "/",
   "/index.html",
   "/manifest.webmanifest",
